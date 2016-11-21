@@ -1,4 +1,3 @@
 # test-squash
 
-testing stuff
-asdfasdfadsf
+trying again
