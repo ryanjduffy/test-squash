@@ -1,3 +1,3 @@
 # test-squash
 
-trying again after clearing cache
+trying again after clearing cache and control-enter
